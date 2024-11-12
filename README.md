@@ -1,6 +1,12 @@
-# avr-template
+# avr-serial
 
-A basic independent template for AVR rust.
+A basic AVR rust serial communication implementation.
 
-**Currently only supports the ATMega328P.**
+## Features
+
+- `hardware-atmega328p` - Includes a hardware implementation of serial communication for the ATMega328P.
+
+## Usage
+
+This crate has rust docs. Generate them with `$ cargo doc -r`.
 
